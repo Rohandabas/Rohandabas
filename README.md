@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Dabas</h1>
-<h3 align="center">Building Generative AI Products | Learning RAG | Product-Driven Developer</h3>
+<h3 align="center">Building Generative AI Products |Fullstack | LLM's | RAG | Product-Driven Developer | Product Mindset</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohandabas&label=Profile%20Views&color=0e75b6&style=flat" />
