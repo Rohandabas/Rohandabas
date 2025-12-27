@@ -1,53 +1,121 @@
-<h2 align="left">Hi 👋! My name is Rohan dabas and I'm a currently persuing  Btech from Bennet University</h2>
+<h1 align="center">Hi 👋, I'm Rohan Dabas</h1>
+<h3 align="center">Building Generative AI Products | Learning RAG | Product-Driven Developer</h3>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rohandabas&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rohandabas&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohandabas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 🧠 About Me
 
-<img align="right" height="150" src="https://t3.ftcdn.net/jpg/05/66/53/06/360_F_566530662_8DdRJHHZsQ5jDISJf1uYtJXL6239rPl8.jpg"  />
+- 🚀 Developer focused on **building real-world, user-centric products**
+- 🤖 Actively learning & working with **Generative AI**
+- 📚 Exploring **RAG (Retrieval-Augmented Generation)** systems
+- 💡 Strong **product mindset** — thinking in terms of users, value & impact
+- 💻 Background in **Frontend & Full Stack Development**
+- 📈 Interested in **Product, AI-powered SaaS & startup-style engineering**
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-</div>
+## 🧩 What I’m Currently Learning
 
-###
+- 🔹 Generative AI fundamentals
+- 🔹 Prompt engineering & AI integrations
+- 🔹 RAG architecture (Vector DBs, embeddings, retrieval)
+- 🔹 How AI improves **decision-making & productivity products**
+- 🔹 Product thinking: *problem → solution → validation*
 
-<div align="left">
-  <a href="https://www.instagram.com/rohandabas_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="rohandabasbij004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/rohan-dabas-75721b195/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
+### 💻 Frontend
+- React.js (Vite)
+- Tailwind CSS
+- HTML, CSS, JavaScript (ES6+)
 
+### ⚙️ Backend
+- Node.js
+- Express.js
+- REST APIs
 
+### 🗄️ Database
+- MongoDB
+- LocalStorage (client-side persistence)
 
-###
+### 🤖 AI & GenAI
+- Gemini API
+- OpenAI APIs
+- Prompt Engineering
+- RAG (Learning & experimenting)
+
+### 🧰 Tools
+- Git & GitHub
+- Postman
+- VS Code
+
+---
+
+## 🌟 Featured Projects
+
+### 🔹 GOALMIND AI
+> AI-assisted goal tracking & productivity platform
+
+- Daily & weekly goal tracking
+- AI-based goal suggestions
+- Progress analytics & reports
+- Product-first UX decisions
+- Built to evolve into a **GenAI productivity tool**
+
+🔗 **Repo:** https://github.com/Rohandabas/GOALMIND-AI
+
+---
+
+### 🔹 SnapWise
+> Full-stack photo management application
+
+- Folder-based image organization
+- Upload, view & delete images
+- MERN stack architecture
+- Focus on simplicity & usability
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohandabas&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohandabas&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohandabas&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🧭 Product Mindset
+
+I believe in:
+- 📌 Solving **real user problems**
+- 📌 Measuring impact, not just features
+- 📌 Using **AI as an enabler**, not a buzzword
+- 📌 Building scalable & adaptable products
+
+---
+
+## 🤝 Let’s Connect
+
+- 💼 Open to **GenAI, Full Stack & Product-oriented roles**
+- 🚀 Interested in **AI startups & innovation teams**
+- 📫 Reach me via GitHub
+
+---
+
+<p align="center">
+  ⚡ <i>"Think product. Build with AI. Learn continuously."</i>
+</p>
