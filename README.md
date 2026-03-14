@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Dabas</h1>
-<h3 align="center">Building Generative AI Products |Fullstack | LLM's | RAG | Product-Driven Developer | Product Mindset</h3>
+<h3 align="center">Building Generative AI Products |Fullstack | LLM's | RAG | MCP | Product-Driven Developer | Product Mindset</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohandabas&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -42,6 +42,7 @@
 
 ### 🗄️ Database
 - MongoDB
+- SQL
 - LocalStorage (client-side persistence)
 
 ### 🤖 AI & GenAI
@@ -49,6 +50,7 @@
 - OpenAI APIs
 - Prompt Engineering
 - RAG (Learning & experimenting)
+- MCP(Model context Protocol)
 
 ### 🧰 Tools
 - Git & GitHub
@@ -58,6 +60,18 @@
 ---
 
 ## 🌟 Featured Projects
+
+### 🔹 🎬 StoryForge Agent
+> An agentic AI pipeline that turns any topic into a publish-ready short-form video script using Tavily real-time search + Google Gemini.
+
+🔍 Real-time web research via Tavily advanced search
+🧠 AI summarisation + structured script generation (Gemini)
+🎬 Supports YouTube Shorts, Instagram Reels, TikTok, LinkedIn Video
+💾 Downloadable .txt scripts
+🤖 MCP server for Claude Desktop / AI agent integration
+🌑 Premium dark-themed Streamlit UI
+
+🔗 **Repo:** https://github.com/Rohandabas/storyforge-agent
 
 ### 🔹 GOALMIND AI
 > AI-assisted goal tracking & productivity platform
@@ -72,13 +86,14 @@
 
 ---
 
-### 🔹 SnapWise
-> Full-stack photo management application
+### 🔹 Rag QA System
+> Rag application
 
-- Folder-based image organization
-- Upload, view & delete images
-- MERN stack architecture
-- Focus on simplicity & usability
+RAG with custom text
+RAG with PDF documents
+Persistent vector store (Chroma)
+Semantic search + LLM generation
+
 
 ---
 
