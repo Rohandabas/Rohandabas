@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohan Dabas</h1>
-<h3 align="center">Building Generative AI Products |Fullstack | LLM's | RAG | MCP | Product-Driven Developer | Product Mindset</h3>
+<h3 align="center">Building AI Products |Generative AI |Fullstack | LLM's | RAG | MCP | AWS | Product-Driven Developer | Product Mindset</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohandabas&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -10,8 +10,8 @@
 ## 🧠 About Me
 
 - 🚀 Developer focused on **building real-world, user-centric products**
-- 🤖 Actively learning & working with **Generative AI**
-- 📚 Exploring **RAG (Retrieval-Augmented Generation)** systems
+- 🤖 Actively learning & working with **Generative AI and Agentic AI**
+- 📚 Exploring **RAG (Retrieval-Augmented Generation)** and AI AGENTS systems
 - 💡 Strong **product mindset** — thinking in terms of users, value & impact
 - 💻 Background in **Frontend & Full Stack Development**
 - 📈 Interested in **Product, AI-powered SaaS & startup-style engineering**
@@ -89,11 +89,12 @@
 ### 🔹 Rag QA System
 > Rag application
 
-RAG with custom text
-RAG with PDF documents
-Persistent vector store (Chroma)
-Semantic search + LLM generation
+-RAG with custom text
+-RAG with PDF documents
+-Persistent vector store (Chroma)
+-Semantic search + LLM generation
 
+🔗 **Repo:** https://github.com/Rohandabas/Rag
 
 ---
 
