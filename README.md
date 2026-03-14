@@ -98,20 +98,47 @@
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohandabas&show_icons=true&theme=tokyonight" />
-</p>
+## ⚡ GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohandabas&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohandabas&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohandabas&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohandabas&layout=compact&theme=tokyonight" />
-</p>
+</div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohandabas&theme=radical&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E63946&sideLabels=E63946&dates=888888" />
+
+</div>
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Rohandabas&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
+
+</div>
+
+<div align="center">
+
+## 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohandabas&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+## 📊 Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohandabas&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohandabas&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rohandabas&theme=radical" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohandabas&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rohandabas&theme=radical&utcOffset=5.5" />
+
+</div>
 ---
 
 ## 🧭 Product Mindset
