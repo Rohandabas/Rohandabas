@@ -115,20 +115,6 @@
 
 <div align="center">
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Rohandabas&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
-
-<div align="center">
-
-## 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohandabas&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ## 📊 Profile Summary
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohandabas&theme=radical" />
 
