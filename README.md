@@ -85,13 +85,14 @@ const rohan = {
 
 <div align="center">
 
-| 🎬 StoryForge Agent | 🎯 GOALMIND AI |
+| 🔬 Multi-Agent Research Platform | 💬 SupportAI Platform |
 |---|---|
-| Agentic AI pipeline → publish-ready short-form video scripts | AI-assisted goal tracking & productivity platform |
-| `Tavily Search` `Google Gemini` `MCP` `Streamlit` | `GenAI` `Goal Analytics` `Product UX` `Node.js` |
-| Real-time web research + structured script gen | Daily/weekly tracking + AI goal suggestions |
-| YouTube Shorts · Reels · TikTok · LinkedIn | Progress analytics + evolving GenAI productivity |
-| [![Repo](https://img.shields.io/badge/View%20Repo-E63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohandabas/storyforge-agent) | [![Repo](https://img.shields.io/badge/View%20Repo-E63946?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohandabas/GOALMIND-AI) |
+| Production-grade multi-agent AI research & report generation | AI-powered SaaS platform for intelligent customer support |
+| `Python` `FastAPI` `LangGraph` `Google Gemini` `ChromaDB` `Docling` `Tavily` | `React` `TypeScript` `Node.js` `Express` `MongoDB` `ChromaDB` `Google Gemini` |
+| Multi-agent planning • Web search • PDF processing • Fact verification | RAG-powered support assistants trained on private knowledge bases |
+| End-to-end RAG with Gemini Embeddings, ChromaDB & inline citations | Document ingestion • Vector indexing • Semantic search & retrieval |
+| Research automation • Evidence-backed reports • AI workflows | Customer support • Enterprise AI • Knowledge management |
+| <a href="https://github.com/Rohandabas/YOUR-MULTIAGENT-REPO"><img src="https://img.shields.io/badge/View%20Repo-E63946?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://github.com/Rohandabas/YOUR-SUPPORTAI-REPO"><img src="https://img.shields.io/badge/View%20Repo-E63946?style=for-the-badge&logo=github&logoColor=white"></a> |
 
 </div>
 
